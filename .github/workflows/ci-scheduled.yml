@@ -22,4 +22,4 @@ jobs:
         run: |
           echo "Event: $GITHUB_EVENT_NAME"
           echo "Env input: ${{ inputs.environment }}"
-          echo "Msg: ${{ inputs.message }}
+          echo "Msg: ${{ inputs.message }}"
